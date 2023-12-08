@@ -1,3 +1,3 @@
 # qr_scanner
 
-A new Flutter project.
+Hacer flutter pub get en la terminal para reutaurar proyecto.
